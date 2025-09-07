@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-07T21:02:14 IST" name="Default suite" finished-at="2025-09-07T21:02:37 IST" duration-ms="23350">
+    <groups>
+    </groups>
+    <test started-at="2025-09-07T21:02:14 IST" name="Default test" finished-at="2025-09-07T21:02:37 IST" duration-ms="23350">
+      <class name="com.wiprojuly.testng.UserAccountManagement">
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:com.wiprojuly.testng.UserAccountManagement@663c9e7a]" started-at="2025-09-07T21:02:14 IST" name="setupClass" finished-at="2025-09-07T21:02:16 IST" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.wiprojuly.testng.UserAccountManagement@663c9e7a]" started-at="2025-09-07T21:02:16 IST" name="setup" finished-at="2025-09-07T21:02:23 IST" duration-ms="6477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:2, instance:com.wiprojuly.testng.UserAccountManagement@663c9e7a]" started-at="2025-09-07T21:02:23 IST" name="login" finished-at="2025-09-07T21:02:32 IST" duration-ms="9329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.wiprojuly.testng.UserAccountManagement@663c9e7a]" started-at="2025-09-07T21:02:32 IST" name="teardown" finished-at="2025-09-07T21:02:33 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.wiprojuly.testng.UserAccountManagement@663c9e7a]" started-at="2025-09-07T21:02:33 IST" name="setup" finished-at="2025-09-07T21:02:36 IST" duration-ms="2967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNoForgotPassword()[pri:3, instance:com.wiprojuly.testng.UserAccountManagement@663c9e7a]" started-at="2025-09-07T21:02:36 IST" name="verifyNoForgotPassword" finished-at="2025-09-07T21:02:37 IST" duration-ms="1168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNoForgotPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.wiprojuly.testng.UserAccountManagement@663c9e7a]" started-at="2025-09-07T21:02:37 IST" name="teardown" finished-at="2025-09-07T21:02:37 IST" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wiprojuly.testng.UserAccountManagement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Demoblaze Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Demoblaze End-to-End Tests(failed)" verbose="0">
+    <classes>
+      <class name="com.wiprojuly.testng.UserAccountManagement">
+        <methods>
+          <include name="setupClass"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.wiprojuly.testng.UserAccountManagement -->
+    </classes>
+  </test> <!-- Demoblaze End-to-End Tests(failed) -->
+</suite> <!-- Failed suite [Demoblaze Suite] -->
